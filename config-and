@@ -1,9 +1,9 @@
-#--- parameters for the XOR-2 experiment ---#
+#--- parameters for the AND experiment ---#
 
 [NEAT]
 fitness_criterion     = max
 fitness_threshold     = -0.1
-pop_size              = 150
+pop_size              = 50
 reset_on_extinction   = False
 
 [DefaultGenome]
